@@ -1,3 +1,8 @@
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/36/73/b2/3673b220d40793ab3bdb0114aca65803.gif">
+</div>
+
+
 # 💫 About Me:
 🪐 About Me<br><br>Hi there! I'm Ludra izmahendra 🚀<br>A passionate developer who loves exploring new technologies, building creative projects, and learning something new every day.<br><br>💻 I enjoy working with:<br><br>-JavaScript / Node.js – for bots, web apps, and automation<br><br>-Python – for AI, data, and backend scripting<br><br>-Discord.js – for creating fun and interactive bots<br><br>-OpenAI API – because AI + creativity = endless possibilities<br><br>✨ What I’m currently working on:<br><br>An AI VTuber-style Discord bot project with real-time voice and emotion<br><br>Improving my skills in full-stack development<br><br>📚 When I’m not coding:<br><br>I play RPGs 🎮<br><br>Watch anime 🎬<br><br>Or just brainstorm weird but fun tech ideas<br><br>“Code is like magic — the better you get, the more powerful your spells become.” 🪄
 
